@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=marca\ antiguedad\ kilometraje\ peso
+comment0.target=FurgonetaGrande(Marca,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FurgonetaGrande\r\n
+numComments=1

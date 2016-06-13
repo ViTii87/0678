@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=marca\ antiguedad\ kilometraje\ plazas
+comment0.target=FurgonetaPeque\u00F1a(Marca,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FurgonetaPeque\u00F1a\r\n
+comment1.params=
+comment1.target=boolean\ cumpleMedidas()
+numComments=2

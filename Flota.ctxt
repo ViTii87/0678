@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Flota()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Flota\r\n
+comment1.params=vehiculo
+comment1.target=void\ addVehiculo(Vehiculo)
+comment1.text=\r\n\ \r\n
+comment2.params=numVehiculo
+comment2.target=void\ removeVehiculo(int)
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=Marca\ marcaMayoritaria()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=boolean\ cumplenMedidas()
+comment4.text=\r\n\ \r\n
+comment5.params=identificador
+comment5.target=int[]\ getDatosVehiculo(int)
+comment5.text=\r\n\ \r\n
+numComments=6
